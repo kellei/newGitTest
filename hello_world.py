@@ -1,2 +1,2 @@
-def hello_world_2:
+def hello_world:
 	print ('Hellow world')
